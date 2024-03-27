@@ -318,7 +318,7 @@ b {
   font-family: 'Lato', sans-serif;
   font-size: 35px;
   line-height: 40px;
-  color: #ecf0f1;
+  color: black;
 }
 
 .content__container {
@@ -343,7 +343,7 @@ b {
 .content__container:after {
   position: absolute;
   top: 0;
-  color: #16a085;
+  color: black;
   font-size: 42px;
   line-height: 40px;
   animation-name: opacity;
